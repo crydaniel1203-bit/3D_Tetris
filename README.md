@@ -3,3 +3,4 @@
 此程式碼以C語言，實現三度空間的投影以及基礎透視 
 以將經典的俄羅斯方塊，在三度可微調視角的空間中遊玩
 
+![image](https://user-images.githubusercontent.com/81129213/112022707-81c80e80-8b6d-11eb-83e9-15f3e00b6968.png)
